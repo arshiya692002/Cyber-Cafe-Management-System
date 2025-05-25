@@ -4,7 +4,7 @@ A full-featured web-based application built using **PHP**, **MySQL**, **HTML**, 
 
 ---
 
-##  Key Features
+#  Key Features
 
 - **User & Admin Authentication**  
   Secure login system with role-based access for administrators and users.
@@ -23,7 +23,7 @@ A full-featured web-based application built using **PHP**, **MySQL**, **HTML**, 
 
 ---
 
-##  Skills Demonstrated
+#  Skills Demonstrated
 
 - **Backend Development**: Structured logic using PHP for CRUD operations, session handling, and database queries.
 - **Frontend Design**: Responsive UI with HTML5, CSS3, and vanilla JavaScript for dynamic interaction.
@@ -33,7 +33,7 @@ A full-featured web-based application built using **PHP**, **MySQL**, **HTML**, 
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 | Layer      | Technology               |
 |------------|---------------------------|
@@ -44,7 +44,7 @@ A full-featured web-based application built using **PHP**, **MySQL**, **HTML**, 
 
 ---
 
-## 🧪 How to Run Locally
+# How to Run Locally
 
 1. **Install MAMP or XAMPP**
 2. Move the project folder to:
@@ -63,31 +63,23 @@ A full-featured web-based application built using **PHP**, **MySQL**, **HTML**, 
 
 ---
 
-## Admin Credentials
+# Admin Credentials
 
 - **Username**: `admin`
 - **Password**: `Test@123`
 
 ---
 
-##  Future Enhancements
+# Future Enhancements
 
 - Add email notifications for complaints.
 - Add user registration approval flow.
 - Integrate PDF export of billing reports.
 - Dashboard analytics with charts.
 
----
 
-##  Author
-
-**Arshiya Chutke**  
-B.Tech IT, IIIT Allahabad  
-Mini Project | Semester 7  
-[GitHub Profile](https://github.com/arshiya692002)
 
 ---
-
-##  License
+# License
 
 This project is intended for educational use. You are free to fork, modify, and reuse with credit.
